@@ -1,6 +1,6 @@
 # BigCommerce to Magento Migration Service
 
-Avail Meetanshi’s ***[BigCommerce to Magento Migration Service](https://meetanshi.com/bigcommerce-to-magento-migration-service.html)***to migrate your BigCommerce store to the latest Magento version smoothly and securely.
+Avail Meetanshi’s ***[BigCommerce to Magento Migration Service](https://meetanshi.com/bigcommerce-to-magento-migration-service.html)*** to migrate your BigCommerce store to the latest Magento version smoothly and securely.
 
 Magento is an open-source eCommerce platform that is specially built for running online businesses effectively. The main reason behind its popularity is its customization capabilities, rich features and high security.
 
